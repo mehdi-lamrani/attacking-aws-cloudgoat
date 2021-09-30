@@ -2,30 +2,7 @@
 
 ![attacking-cloudgoat-banner](github-images/banner.png)
 
-## What is this book about?
-
-This book aims to be a step-by-step walkthrough of CloudGoat 2.0 scenarios.
-
-[CloudGoat 2.0](https://rhinosecuritylabs.com/aws/introducing-cloudgoat-2/) is a "vulnerable by design" AWS deployment tool. CloudGoat allows users to create intentionally vulnerable AWS environments. 
-
-## Who this book is for?
-
-The intended audience for this book are - 
-
-1. Penetration testers, who are interested in learning to attack AWS services
-2. Developers/System Administrators/Cloud Engineers who are interested in understanding the attack surface around AWS services
-
-## Setting up the book
-
-The book is written in markdown format, you can use [mdBook](https://github.com/rust-lang/mdBook) to host a local copy.
-
-### Steps to do this
-
-1. Install Rust by following the instructions at https://www.rust-lang.org/tools/install
-2. Install mdBook (`cargo install mdbook`) or download binaries from [https://github.com/rust-lang/mdBook/releases](https://github.com/rust-lang/mdBook/releases)
-2. `cd` into the `documentation` folder
-3. `mdbook serve`
-4. Browse to `http://localhost:3000`
+## step-by-step walkthrough of CloudGoat 2.0 scenarios.
 
 ## Quick reference
 
