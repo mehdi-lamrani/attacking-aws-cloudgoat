@@ -1,4 +1,4 @@
-# Attacking CloudGoat 2
+# Attacking Amazon AWS : CloudGoat
 
 ![attacking-cloudgoat-banner](github-images/banner.png)
 
